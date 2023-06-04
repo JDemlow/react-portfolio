@@ -21,7 +21,7 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto my-4"
-              src="src/assets/css.png"
+              src="/src/assets/css.png"
               alt="CSS icon"
             />
             <p className="my-4">CSS</p>
@@ -29,7 +29,7 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto my-4"
-              src="src/assets/tailwind.png"
+              src="/src/assets/tailwind.png"
               alt="tailwind icon"
             />
             <p className="my-4">TAILWIND CSS</p>
@@ -37,7 +37,7 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto my-4"
-              src="src/assets/javascript.png"
+              src="/src/assets/javascript.png"
               alt="javascript icon"
             />
             <p className="my-4">JAVASCRIPT</p>
@@ -45,7 +45,7 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto my-4"
-              src="src/assets/node.png"
+              src="/src/assets/node.png"
               alt="node icon"
             />
             <p className="my-4">NODE.js</p>
@@ -53,7 +53,7 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto my-4"
-              src="src/assets/react.png"
+              src="/src/assets/react.png"
               alt="react icon"
             />
             <p className="my-4">REACT</p>
@@ -61,7 +61,7 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto my-4"
-              src="src/assets/firebase.png"
+              src="/src/assets/firebase.png"
               alt="firebase icon"
             />
             <p className="my-4">FIREBASE</p>
@@ -69,7 +69,7 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto my-4"
-              src="src/assets/github.png"
+              src="/src/assets/github.png"
               alt="github icon"
             />
             <p className="my-4">GITHUB</p>
@@ -77,7 +77,7 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img
               className="w-20 mx-auto my-4"
-              src="src/assets/mongo.png"
+              src="/src/assets/mongo.png"
               alt="mongo db icon"
             />
             <p className="my-4">MONGO DB</p>

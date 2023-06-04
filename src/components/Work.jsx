@@ -18,7 +18,7 @@ const Work = () => {
           {/* Grid Item 1*/}
           <div
             style={{
-              backgroundImage: 'url("src/assets/projects/workImg.jpeg")',
+              backgroundImage: 'url("/src/assets/projects/workImg.jpeg")',
             }}
             className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -44,7 +44,7 @@ const Work = () => {
           {/* Grid Item 2 */}
           <div
             style={{
-              backgroundImage: 'url("src/assets/projects/realestate.jpg")',
+              backgroundImage: 'url("/src/assets/projects/realestate.jpg")',
             }}
             className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -70,7 +70,7 @@ const Work = () => {
           {/* Grid Item 3*/}
           <div
             style={{
-              backgroundImage: 'url("src/assets/projects/workImg.jpeg")',
+              backgroundImage: 'url("/src/assets/projects/workImg.jpeg")',
             }}
             className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -96,7 +96,7 @@ const Work = () => {
           {/* Grid Item 4 */}
           <div
             style={{
-              backgroundImage: 'url("src/assets/projects/realestate.jpg")',
+              backgroundImage: 'url("/src/assets/projects/realestate.jpg")',
             }}
             className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -122,7 +122,7 @@ const Work = () => {
           {/* Grid Item 5*/}
           <div
             style={{
-              backgroundImage: 'url("src/assets/projects/workImg.jpeg")',
+              backgroundImage: 'url("/src/assets/projects/workImg.jpeg")',
             }}
             className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -148,7 +148,7 @@ const Work = () => {
           {/* Grid Item 6 */}
           <div
             style={{
-              backgroundImage: 'url("src/assets/projects/realestate.jpg")',
+              backgroundImage: 'url("/rc/assets/projects/realestate.jpg")',
             }}
             className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
