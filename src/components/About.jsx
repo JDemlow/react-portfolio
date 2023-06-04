@@ -28,7 +28,7 @@ const About = () => {
             </p>
           </div>
         </div>
-        <div className="flex justify-center items-center mb-24 md:m-4">
+        <div className="flex justify-center items-center">
           <img
             className="w-32 md:w-60 mx-auto my-4 py-8 hover:scale-110 duration-500"
             src={restaurantImage}
