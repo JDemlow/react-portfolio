@@ -1,4 +1,5 @@
 import React from "react";
+import restaurantImage from "../assets/restaurant.jpeg";
 
 const About = () => {
   return (
@@ -30,7 +31,7 @@ const About = () => {
         <div className="flex justify-center items-center">
           <img
             className="w-60 mx-auto my-4 py-8 hover:scale-110 duration-500"
-            src="/src/assets/restaurant.jpeg"
+            src={restaurantImage}
             alt="picture of James"
           />
         </div>
