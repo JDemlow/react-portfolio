@@ -30,7 +30,7 @@ const About = () => {
         </div>
         <div className="flex justify-center items-center">
           <img
-            className="w-60 mx-auto my-4 py-8 hover:scale-110 duration-500"
+            className="w-20 md:w-60 mx-auto my-4 py-8 hover:scale-110 duration-500"
             src={restaurantImage}
             alt="picture of James"
           />
