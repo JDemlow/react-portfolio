@@ -27,13 +27,13 @@ const About = () => {
               creating and implementing successful full stack web experiences.
             </p>
           </div>
-        </div>
-        <div className="flex justify-center items-center">
-          <img
-            className="w-32 md:w-60 mx-auto my-4 py-8 hover:scale-110 duration-500 mb-20"
-            src={restaurantImage}
-            alt="picture of James"
-          />
+          <div className="flex justify-center items-center">
+            <img
+              className="w-32 md:w-60 mx-auto my-4 py-8 hover:scale-110 duration-500 mb-64"
+              src={restaurantImage}
+              alt="picture of James"
+            />
+          </div>
         </div>
       </div>
     </div>
