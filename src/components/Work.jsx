@@ -99,7 +99,7 @@ const Work = () => {
           {/* Grid Item 4 */}
           <div
             style={{
-              backgroundImage: 'url("/src/assets/projects/realestate.jpg")',
+              backgroundImage: `url(${workImg2})`,
             }}
             className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -151,7 +151,7 @@ const Work = () => {
           {/* Grid Item 6 */}
           <div
             style={{
-              backgroundImage: 'url("/src/assets/projects/realestate.jpg")',
+              backgroundImage: `url(${workImg2})`,
             }}
             className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
