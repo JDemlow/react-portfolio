@@ -1,7 +1,8 @@
 import React from "react";
 
-import workImg1 from "../assets/projects/workImg.jpeg";
-import workImg2 from "../assets/projects/realestate.jpg";
+import workImg1 from "../assets/projects/minerva-thumb-01.png";
+import workImg2 from "../assets/projects/vipassana-thumb-resize.png";
+import workImg3 from "../assets/projects/dog-walker-thumb01.png";
 
 const Work = () => {
   return (
@@ -14,7 +15,10 @@ const Work = () => {
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-[--accent-bg]">
             Work
           </p>
-          <p className="py-6">Check out some of my recent work</p>
+          <p className="py-6">
+            Here is a sample of some of my recent work for very satisfied
+            clients.
+          </p>
         </div>
         {/* Container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
@@ -70,88 +74,10 @@ const Work = () => {
               </div>
             </div>
           </div>
-          {/* Grid Item 3*/}
+          {/* Grid Item 3 */}
           <div
             style={{
-              backgroundImage: `url(${workImg1})`,
-            }}
-            className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
-              </span>
-              <div className="pt-8 text-center">
-                <a href="">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* Grid Item 4 */}
-          <div
-            style={{
-              backgroundImage: `url(${workImg2})`,
-            }}
-            className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
-              </span>
-              <div className="pt-8 text-center">
-                <a href="">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* Grid Item 5*/}
-          <div
-            style={{
-              backgroundImage: `url(${workImg1})`,
-            }}
-            className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
-              </span>
-              <div className="pt-8 text-center">
-                <a href="">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* Grid Item 6 */}
-          <div
-            style={{
-              backgroundImage: `url(${workImg2})`,
+              backgroundImage: `url(${workImg3})`,
             }}
             className="shadow-lg shadow-[#040616] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
